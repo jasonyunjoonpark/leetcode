@@ -1,2 +1,2 @@
 # leetcode
-LeetCode problems &amp; solutions in Python.
+LeetCode problems and solutions in Python for interviews.
